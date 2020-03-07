@@ -1,0 +1,11 @@
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\obj\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.csprojAssemblyReference.cache
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\obj\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.AssemblyInfoInputs.cache
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\obj\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.AssemblyInfo.cs
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\bin\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.exe
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\bin\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.deps.json
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\bin\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.runtimeconfig.json
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\bin\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.runtimeconfig.dev.json
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\bin\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.dll
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\bin\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.pdb
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\obj\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.dll
+C:\Users\Jhumb\source\repos\CadastroDeAcoesDaBolsaDeValores\CadastroDeAcoesDaBolsaDeValores\obj\Debug\netcoreapp3.1\CadastroDeAcoesDaBolsaDeValores.pdb
