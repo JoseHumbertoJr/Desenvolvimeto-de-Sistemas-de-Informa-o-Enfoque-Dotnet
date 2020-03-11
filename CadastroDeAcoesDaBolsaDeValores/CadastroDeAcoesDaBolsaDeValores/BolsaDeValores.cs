@@ -2,7 +2,7 @@
 using CadastroDeAcoesDaBolsaDeValores.Model;
 using System;
 using System.Collections.Generic;
-
+using System.Linq;
 
 namespace CadastroDeAcoesDaBolsaDeValores
 {
@@ -17,9 +17,23 @@ namespace CadastroDeAcoesDaBolsaDeValores
             int codigo = int.Parse(Console.ReadLine());
 
             Console.Write("Digite a quantidade de ações ");
-            String qtdAcoes = Console.ReadLine();
-           
-            BolsaDeValores.listaAcoes.Add(new Acoes(codigo, qtdAcoes));
+            int qtdAcoes = int.Parse(Console.ReadLine());
+
+            Boolean temDuplicidade = listaAcoes.Any(acoes => acoes.Codigo == codigo);
+            if (temDuplicidade)
+            {
+                for (int i = 0; i < listaAcoes.Count; i++)
+                {
+                    if (listaAcoes[i].Codigo == codigo)
+                    {
+                        listaAcoes[i].QtdAcao += qtdAcoes;
+                    }
+                }
+            }
+            else
+            {
+                BolsaDeValores.listaAcoes.Add(new Acoes(codigo, qtdAcoes));
+            }
                 
             
 
